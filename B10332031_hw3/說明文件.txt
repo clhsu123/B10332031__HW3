@@ -1,0 +1,7 @@
+使用Dec c++ 為建置環境, 程式以c++語言撰寫
+
+完成
+1.投影片中提到的找質數方法
+2.1024bit的RSA加解密
+3.Square & multiply
+4.Chinese remainder theorem
